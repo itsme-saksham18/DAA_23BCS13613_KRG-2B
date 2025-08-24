@@ -1,4 +1,4 @@
-# 🎓 Advanced Database Management System Assessment Submission  
+# 🎓 Design and Analysis of Algorithm Assessment Submission  
 **Chandigarh University | Department of CSE**
 
 ---
