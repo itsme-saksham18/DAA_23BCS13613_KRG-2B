@@ -10,7 +10,7 @@ This repository serves as the **authorized submission** for the **DESIGN AND ANA
 
 ## 📌 Purpose of This Repository
 
-This repository has been created as a **formal medium of assessment** for the ADBMS course. It represents a structured and academic submission channel through which my work will be reviewed, verified, and evaluated by the course instructor(s).
+This repository has been created as a **formal medium of assessment** for the DAA course. It represents a structured and academic submission channel through which my work will be reviewed, verified, and evaluated by the course instructor(s).
 
 All contributions within this repository are aligned with the learning outcomes and evaluation criteria of the course. This repository stands as a reflection of individual effort, technical understanding, and application of ADBMS principles acquired during the semester.
 
